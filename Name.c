@@ -6,7 +6,7 @@
 
   int main(int argc , char **argv){
 
-    printf("Christian Eidahl");
+    printf("Christian Eidahl and Bryce May");
 
     return 0;
   }
